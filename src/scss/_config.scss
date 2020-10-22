@@ -28,7 +28,7 @@ $stalfos-util-prefix: 'sf-';
  * Various misc metrics to use around the site
  */
 $metrics: (
-  'wrap-max-width': 58rem,
+  'wrap-max-width': 52rem,
   'wrap-inner-max-width': 52rem,
   'md-breakpoint': 48rem
 );
@@ -154,8 +154,8 @@ $stalfos-config: (
     'items': (
       'light': '300',
       'regular': '400',
-      'mid': '600',
-      'bold': '700'
+      'mid': '500',
+      'bold': '500'
     ),
     'output': 'standard',
     'property': 'font-weight'

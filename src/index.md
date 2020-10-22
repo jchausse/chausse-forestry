@@ -1,15 +1,10 @@
 ---
 layout: home
-title: Jeff's Awesome Site
+title: Jeff Chausse
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
-CMS](https://forestry.io/) pre-configured, so that you can one-click install a
-progressive, accessible blog in minutes. It also gives you a well organised
-starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
+Jeff Chausse is a seasoned Boston area UX and interaction designer. He is currently Senior Interaction Designer at <a href="http://www.quickbase.com">Quick Base</a>. Previously, he's worked with <a href="http://www.forrester.com">Forrester</a>, <a href="http://www.harmonixmusic.com">Harmonix</a>, <a href="http://www.kokofitclub.com">Koko FitClub</a>, <a href="http://www.microsoft.com">Microsoft</a>, and several digital agencies. Learn more at <a href="http://www.linkedin.com/in/chausse">LinkedIn</a>.
